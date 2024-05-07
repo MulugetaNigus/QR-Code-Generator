@@ -1,0 +1,44 @@
+.header{
+    background-color: rgb(25, 0, 255);
+    margin: 0;
+    padding: 0;
+    height: auto;
+    /* border-bottom-left-radius: 100px; */
+    /* border-top-right-radius: 100px; */
+    }
+
+.HeaderDisplayer1{
+    color: rgb(0, 221, 255);
+    padding: 15px;
+    font-size: 50px;
+    color: bisque;
+}
+
+.HeaderDisplayer2{
+    color: bisque;
+    font-size: px;
+    padding: 10px;
+}
+
+.body{
+    margin-top: 50px;
+}
+
+.qrimg{
+    background-image: url('./qrcode_mullerking.onrender.com.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: auto;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.qr{
+    display: flex;
+    flex-direction: row;
+}
